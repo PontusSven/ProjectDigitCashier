@@ -1,2 +1,2 @@
 # ProjectDigitCashier
-School project Humans DigitCashier
+Test for the new school project, thumbs crossed.
