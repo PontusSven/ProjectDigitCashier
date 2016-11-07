@@ -4,6 +4,8 @@ git add <name>  = lägger till fil så den blir grön status
 
 git commit -m "<comment>"
 
+git push	= pushar upp till Git
+
 git branch <name> = skapar ny branch
 
 git checkout <name> = byter till branch
