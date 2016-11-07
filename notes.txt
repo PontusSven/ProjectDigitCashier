@@ -1,0 +1,13 @@
+git status = Status
+
+git add <name>  = lägger till fil så den blir grön status
+
+git commit -m "<comment>"
+
+git branch <name> = skapar ny branch
+
+git checkout <name> = byter till branch
+
+git checkout master = går tillbaks till master
+
+
